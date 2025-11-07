@@ -9,7 +9,7 @@ The portfolio presents my career summary, skills, projects, and contact details 
 
 This portfolio showcases:
 - About Me
-- Education Details
+- Education Details 
 - Technical Skills
 - Projects I have developed
 - My Resume (view & download)
